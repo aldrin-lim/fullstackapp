@@ -11,6 +11,9 @@ Fullstack App Sample. Made with:
 
 ### PWA Score: 92
 
+
+![Image](https://raw.githubusercontent.com/superaldrin/fullstackapp/master/PWATest.PNG)
+
 ### Installation
 
 Requires [Node.js](https://nodejs.org/) v4+ to run.
