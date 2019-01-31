@@ -9,7 +9,7 @@ Fullstack App Sample. Made with:
   - ReactJS
   - JWT Auth
 
-### PWA Score: 92
+### PWA Score: 92 (Tested using Lighthouse)
 
 
 ![Image](https://raw.githubusercontent.com/superaldrin/fullstackapp/master/PWATest.PNG)
