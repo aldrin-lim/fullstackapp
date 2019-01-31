@@ -13,7 +13,9 @@ Fullstack App Sample. Made with:
 
 ### Installation
 
-Requires [Node.js](https://nodejs.org/) v4+ and [Pyhton 2.7](https://www.python.org/download/releases/2.7/) to run.
+Requires [Node.js](https://nodejs.org/) v4+ to run.
+
+Also requires [Pyhton 2.7](https://www.python.org/download/releases/2.7/) to install bcrypt on windows.
 
 Install the dependencies and devDependencies and start the server. This will run npm install on both client and server directory.
 
