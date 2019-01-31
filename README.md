@@ -2,7 +2,7 @@
 
 
 Fullstack App Sample. Made with:
-  - NodesJS
+  - NodeJS
   - Express
   - GraphQL
   - MongoDB
