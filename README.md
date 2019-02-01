@@ -20,6 +20,12 @@ Requires [Node.js](https://nodejs.org/) v4+ to run.
 
 Also requires [Pyhton 2.7](https://www.python.org/download/releases/2.7/) to install bcrypt on windows.
 
+Clone the app including its Submodule
+
+```sh
+$ git clone --recursive https://github.com/superaldrin/fullstackapp.git
+```
+
 Install the dependencies and devDependencies and start the server. This will run npm install on both client and server directory.
 
 ```sh
