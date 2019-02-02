@@ -8,7 +8,7 @@
     "client": "cd client && npm start",
     "server": "cd server && npm start",
     "start": "concurrently 'npm:client' 'npm:server'",
-    "build-local": "git submodule foreach git pull origin master && cd client && npm install && cd ../server && npm install"
+    "build-local": "git submodule update --recursive --remote && cd client && npm install && cd ../server && npm install && cd client && npm install && cd ../server && npm install"
   },
   "author": "",
   "license": "ISC",
