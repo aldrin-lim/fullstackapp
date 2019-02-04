@@ -41,4 +41,4 @@ To run the app.
 $ npm run start
 ```
 
-This will run both of the client and server.
+This will run both of the client and server inside a docker container. You can access it by using (http://localhost:3000/) on your local
