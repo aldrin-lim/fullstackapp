@@ -4,6 +4,7 @@
 Fullstack App Sample. Made with:
   - NodeJS
   - Express
+  - Docker
   - GraphQL
   - MongoDB
   - ReactJS
@@ -16,9 +17,10 @@ Fullstack App Sample. Made with:
 
 ### Installation
 
-Requires [Node.js](https://nodejs.org/) v4+ to run.
-
-Also requires [Pyhton 2.7](https://www.python.org/download/releases/2.7/) to install bcrypt on windows.
+Requires 
+  - [Node.js](https://nodejs.org/) v4+ to run.
+  - [Pyhton 2.7](https://www.python.org/download/releases/2.7/) to install bcrypt on windows.
+  - [Docker](https://www.docker.com/) for the app container
 
 Clone the app including its Submodule
 
